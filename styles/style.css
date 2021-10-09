@@ -1,0 +1,42 @@
+.brand-logo{
+    width:40px;
+    height: 50px;
+}
+.nav-link img{
+    width:51px;
+    height:51px;
+}
+body{
+    background-color: #f3f1ff;
+}
+.player img{
+    width:56px;
+}
+main{
+    max-width: 870px;
+}
+.top-player{
+    background-color:#fff;
+}
+.idea{
+    color:white;
+    font-size: 30px ;
+    font-family:sans-serif;
+}
+.container-fluid{
+    max-width: 870px;
+}
+h3{
+    color:blue;
+    padding-top: 20px;
+}
+hr{
+    width:800px;
+    margin:auto;
+}
+.blog img{
+    width:177px;
+    padding-top: 20px;
+    padding-right:20px;
+    
+}
